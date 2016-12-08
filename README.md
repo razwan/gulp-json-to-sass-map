@@ -1,6 +1,3 @@
-gulp-json-to-sass-map
-==
-
 this is a gulp wrapper for the json-to-sass-map npm module which basically converts this
 ```
 {
