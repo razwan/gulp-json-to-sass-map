@@ -1,0 +1,17 @@
+{
+  "name": "gulp-json-to-sass-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Razvan Onofrei <razvan.onofrei@pixelgrade.com> (http://razvanonofrei.com)",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "json-to-sass-map": "0.0.1",
+    "lodash": "^3.10.1",
+    "through2": "^0.6.5"
+  }
+}
